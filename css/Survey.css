@@ -1,0 +1,43 @@
+.Background {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#collapsibleNavbar {
+
+	padding: -1px 20px;
+	font-size: 25px;
+}
+
+#logo {
+
+	width: 60px;
+	height: 60px;
+
+}
+
+#logoname {
+
+	font-family: monospace;
+	text-shadow: 2px 3px purple;
+	width: 60px;
+	height: 60px;
+
+}
+
+.mt-2 {
+
+	margin-top: 2;
+}
+
+#bg {
+	opacity: 0.6;
+}
+
+#Title {
+	text-shadow: 2px 3px white;
+	color: limegreen;
+	font-size: 500%;
+}

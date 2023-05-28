@@ -1,0 +1,159 @@
+.Background {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#collapsibleNavbar {
+
+	padding: -1px 20px;
+	font-size: 25px;
+}
+
+#logo {
+	width: 60px;
+	height: 60px;
+
+}
+
+#logoname {
+	font-family: monospace;
+	text-shadow: 2px 3px purple;
+	width: 60px;
+	height: 60px;
+
+}
+
+.mt-2 {
+	margin-top: 2;
+}
+
+td {
+	text-align: center;
+	border: 1px solid white;
+	font-size: 15px;
+	padding: 1px;
+	width: 60px;
+	height: 50px;
+}
+
+th{
+	border: none;
+}
+
+p {
+	float: left;
+}
+
+sup {
+	position: left;
+	font-size: 12px;
+}
+
+sub {
+	font-size: 10px;
+}
+
+.chart {
+	border: 1px solid black;
+}
+
+
+#table1 {
+	border-collapse: collapse;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.table2 {
+	border: 3px solid white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.table3 {
+	border: 3px solid white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#orange {
+	background-color: orange;
+}
+
+#pink {
+	background-color: lightsalmon;
+}
+
+#purple {
+	background-color: purple;
+	color: white;
+}
+
+#green {
+	background-color: green;
+	color: white;
+}
+
+#blue {
+	background-color: blue;
+	color: white;
+
+}
+
+#yellow {
+	background-color: yellow;
+}
+
+#orangered {
+	background-color: orangered;
+	color: white;
+}
+
+#aquamarine {
+	background-color: aquamarine;
+}
+
+#yellowgreen {
+	background-color: yellowgreen;
+}
+
+#red {
+	background-color: red;
+	color: white;
+}
+
+#td1 {
+	font-size: 55px;
+	border: none;
+}
+
+#td2 {
+	border: 1px solid white;
+}
+
+#td3 {
+	border: 1px solid white;
+}
+
+#td5 {
+	border: 1px solid white;
+}
+
+#td6 {
+	border: 1px solid white;
+}
+
+#border {
+	border: none;
+}
+
+#border1 {
+	border: none;
+
+}
+
+#remove { 
+	border: none;
+}

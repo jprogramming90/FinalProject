@@ -1,0 +1,112 @@
+.Background {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#collapsibleNavbar {
+
+	padding: -1px 20px;
+	font-size: 25px;
+}
+
+#logo {
+	width: 60px;
+	height: 60px;
+
+}
+
+#logoname {
+	font-family: monospace;
+	text-shadow: 2px 3px purple;
+	width: 60px;
+	height: 60px;
+
+}
+
+.mt-2 {
+	margin-top: 2;
+}
+
+li {
+	list-style-type: none;
+}
+
+#threeidiots {
+	border-radius: 75%;
+	padding: 20px;
+}
+
+#HeaderNav {
+	text-align: center;
+	font-size: 600%;
+	text-shadow: 2px 5px gray;
+}
+
+#HeaderGal {
+	text-align: center;
+	font-size: 600%;
+	text-shadow: 2px 5px gray;
+}
+
+#HeaderCon {
+	text-align: center;
+	font-size: 600%;
+	text-shadow: 2px 5px gray;
+}
+
+#AllAboutUs {
+	font-size: 400%;
+	text-shadow: 2px 4px darkgray;
+}
+
+#jaz {
+	text-shadow: 2px 3px purple;
+}
+
+#xan {
+	text-shadow: 2px 3px orange;
+}
+
+#gen {
+	text-shadow: 2px 3px lime;
+}
+
+#contacttext {
+	font-size: 45px;
+}
+
+#contacttext2 {
+	font-size: 25px;
+}
+
+#contacttext3 {
+	font-size: 15px;
+}
+
+#jazxangen {
+	font-size: 27px;
+}
+
+#Welcome {
+	color: lightblue;
+	text-shadow: 3px 2px skyblue;
+	text-align: left;
+	font-size: 470%;
+}
+
+#introduction {
+	font-size: 150%;
+	text-align: left;
+	color: white;
+}
+
+#progress {
+	width: 70px;
+	height: 70px;
+}
+
+#AllAboutUs2 {
+	font-size: 250%;
+}

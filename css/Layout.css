@@ -1,0 +1,51 @@
+.Background {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+	text-shadow: 1px 1px white;
+}
+
+#collapsibleNavbar {
+
+	padding: -1px 20px;
+	font-size: 25px;
+}
+
+.mt-2 {
+	margin-top: 2;
+}
+
+li {
+	list-style-type: none;
+}
+
+.tourist-spots img {
+	height: 170px;
+}
+
+.tourist-spots2 img {
+	height: 400px;
+}
+
+#logo {
+	width: 60px;
+	height: 60px;
+
+}
+
+#logoname {
+	font-family: monospace;
+	text-shadow: 2px 3px purple;
+	width: 60px;
+	height: 60px;
+
+}
+
+#placer {
+	color: black;
+	text-shadow: 1px 2px white;
+}
